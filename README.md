@@ -1,76 +1,69 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+# 🌐 Kalyani's Portfolio Website
 
-### Live - https://ui.chetanverma.com/template/1
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
-### Open Source UI Components - https://ui.chetanverma.com/
+A modern and responsive personal portfolio website built using **Next.js** and **Tailwind CSS**. It showcases my work, skills, blogs, and resume — all in one place.
 
-### Tutorials
+![thumbnail](https://i.postimg.cc/w78v1V7Y/Screenshot-1050.png)
 
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
+### 🔗 Live Demo: [my-portfolio.vercel.app](https://my-portfolio-hhvptr5yc-kalyanis-projects-4c1e3712.vercel.app)
 
-Blog - https://www.chetanverma.com/blog/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+---
 
-### Features - 
+## 🛠 Tech Stack
 
-- Modern Stack (Next.js + TailwindCSS)
-- Minimal Design
-- Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
+- **Next.js**  
+- **Tailwind CSS**  
+- **Markdown Blog Support**  
+- **React Hooks**  
+- **Vercel Deployment**
 
+---
 
-### Sections
+## ✨ Features
 
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
+- Responsive design across all devices  
+- Customizable content from one JSON file  
+- Built-in blog with Markdown support  
+- Resume section with skills, education & experience  
+- Light and dark mode toggle  
+- Modern animations and transitions
 
+---
 
-### How To Use
+## 📁 Sections Included
 
-- Clone this repo
-- run `yarn`
-- `yarn dev`
+- Home / Hero  
+- Projects  
+- Resume  
+- Services  
+- Blogs  
+- About Me  
+- Contact  
 
+---
 
-### How To Deploy - 
+## 📌 Highlight Project
 
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
+### 🏠 [Airbnb Clone](https://kalyaninakka.github.io/my-airbnb-clone/)  
+A responsive front-end clone of Airbnb built using HTML, CSS, and JavaScript.
 
-Quickes way to deploy this repo - 
+![Airbnb Screenshot](https://i.ibb.co/XZpnVqs/Screenshot-1047.png)
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+---
 
+## 📝 Blog Posts
 
-### How To Contribute - 
+- [My Web Development Journey](https://my-portfolio-hhvptr5yc-kalyanis-projects-4c1e3712.vercel.app/blog/my-web-development-journey)  
+- [Staying Motivated While Learning to Code](https://my-portfolio-hhvptr5yc-kalyanis-projects-4c1e3712.vercel.app/blog/staying-motivated-while-learning)
 
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
+---
 
+## 🚀 Getting Started
 
-### Tech Stack Used - 
-- Next.js
-- TailwindCSS
-
-
-### Thanks
-
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
+```bash
+git clone https://github.com/Kalyaninakka/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
 
 
 

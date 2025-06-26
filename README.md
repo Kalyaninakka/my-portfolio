@@ -46,7 +46,7 @@ A modern and responsive personal portfolio website built using **Next.js** and *
 ### 🏠 [Airbnb Clone](https://kalyaninakka.github.io/my-airbnb-clone/)  
 A responsive front-end clone of Airbnb built using HTML, CSS, and JavaScript.
 
-![Airbnb Screenshot](https://i.ibb.co/XZpnVqs/Screenshot-1047.png)
+![Airbnb Screenshot](https://i.postimg.cc/mzt8c98K/Screenshot-1047.png)
 
 ---
 
